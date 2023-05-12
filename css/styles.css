@@ -1,0 +1,14 @@
+.container {
+      border: 1px solid black;
+      margin-left: 100px;
+      margin-right: 100px;
+}
+
+.container-fluid {
+      border: 1px solid red;
+}
+
+.col-8,
+.col-4 {
+      border: 2px dashed green;
+}
